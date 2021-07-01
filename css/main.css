@@ -1,6 +1,7 @@
 body{
 	background-color: #000000;
   background-image: url(../img/bg.png);
+  text-align: center;
 }
 
 p{
@@ -48,37 +49,27 @@ a:active {
 
 
 #title{
-
 }
 
 #albumart{
-
 }
 
 #soundcloud{
-
 }
 
 #description{
-
 }
 
 .credits {
-  
-}
-
 }
 
 #socials{
-
 }
 
 #pastwork{
-
 }
 
 #vids{
-
 }
 
 
