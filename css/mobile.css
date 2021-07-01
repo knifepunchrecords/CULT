@@ -1,6 +1,8 @@
 body{
 	background-color: #FFFFFF;
-  	background-image: url(../img/bg.png);
+  background-image: url(../img/bg.png);
+  filter: invert(100%);
+	-webkit-filter: invert(100%);
 	text-align: center;
 }
 
@@ -52,7 +54,7 @@ a:active {
 }
 
 .cover{
-	width: 80%;
+	width: 50%;
 }
 
 .center {
@@ -73,8 +75,7 @@ a:active {
 }
 
 #albumart{
-	position: absolute;
-	top: 50px;
+
 }
 
 #soundcloud{
