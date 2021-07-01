@@ -60,12 +60,7 @@ a:active {
   width: 80%;
 }
 .credits {
-  margin: auto;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
-  color: rgba(255, 255, 255, 1);
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  padding: 2px;
+  
 }
 
 #title{
@@ -84,15 +79,7 @@ left: 100px;
 }
 
 #description{
-float: none;
-clear: both;
-display: block;
-width: 640px;
-position: relative;
-left: 100px;
-background-color: rgba(255, 255, 255, 1);
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-padding: 8px;
+
 }
 
 }
