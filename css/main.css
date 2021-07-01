@@ -1,15 +1,12 @@
 body{
-	background-color: #FFFFFF;
+	background-color: #000000;
   background-image: url(../img/bg.png);
-	text-align: center;
 }
 
 p{
 	text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 	font-weight: normal;
 	color: #E7D2A6;
-	letter-spacing: 2pt;
-	word-spacing: 4pt;
 	font-size: 12px;
 	text-align:center;
 	font-family: helvetica, sans-serif;
@@ -24,12 +21,6 @@ h2{
 	text-align:center;
 	font-family: helvetica, sans-serif;
 	line-height: 1;
-}
-
-h2.tPad{
-	padding-top: 50px;
-}
-
 }
 
 a:link {
@@ -50,6 +41,7 @@ a:active {
 }
 
 .cover{
+	margin: auto;
 	width: 50%;
 }
 
@@ -68,10 +60,7 @@ a:active {
 }
 
 #soundcloud{
-float: right;
-position: absolute;
-width: 800px;
-right: 100px;
+
 }
 
 #description{
@@ -89,9 +78,7 @@ right: 100px;
 }
 
 #pastwork{
-float: right;
-position: relative;
-right: 10px;
+
 }
 
 #vids{

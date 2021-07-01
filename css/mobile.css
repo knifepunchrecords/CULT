@@ -50,6 +50,7 @@ a:active {
 }
 
 .cover{
+	margin: auto;
 	width: 50%;
 }
 
