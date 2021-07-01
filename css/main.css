@@ -1,6 +1,8 @@
 body{
 	background-color: #FFFFFF;
   	background-image: url(../img/bg.png);
+  	filter: invert(100%);
+		-webkit-filter: invert(100%);
 	text-align: center;
 }
 
@@ -83,8 +85,7 @@ a:active {
 }
 
 #albumart{
-	position: absolute;
-	top: 50px;
+
 }
 
 #soundcloud{
@@ -107,10 +108,7 @@ padding: 8px;
 }
 
 #socials{
-float: right;
-position: absolute;
-width: 800px;
-right: 10px;
+
 }
 
 #pastwork{
